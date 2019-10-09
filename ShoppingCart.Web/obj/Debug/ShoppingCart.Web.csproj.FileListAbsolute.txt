@@ -1,0 +1,9 @@
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Web\obj\Debug\ShoppingCart.Web.csprojAssemblyReference.cache
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Web\bin\ShoppingCart.Web.dll.config
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Web\bin\ShoppingCart.Web.dll
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Web\bin\ShoppingCart.Web.pdb
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Web\obj\Debug\ShoppingCart.Web.csproj.CopyComplete
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Web\obj\Debug\ShoppingCart.Web.dll
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Web\obj\Debug\ShoppingCart.Web.pdb

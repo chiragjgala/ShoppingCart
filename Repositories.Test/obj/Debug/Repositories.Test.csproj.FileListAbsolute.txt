@@ -1,0 +1,5 @@
+C:\Users\Chiragh\source\repos\ShoppingCart\Repositories.Test\bin\Debug\Repositories.Test.dll
+C:\Users\Chiragh\source\repos\ShoppingCart\Repositories.Test\bin\Debug\Repositories.Test.pdb
+C:\Users\Chiragh\source\repos\ShoppingCart\Repositories.Test\obj\Debug\Repositories.Test.csprojAssemblyReference.cache
+C:\Users\Chiragh\source\repos\ShoppingCart\Repositories.Test\obj\Debug\Repositories.Test.dll
+C:\Users\Chiragh\source\repos\ShoppingCart\Repositories.Test\obj\Debug\Repositories.Test.pdb

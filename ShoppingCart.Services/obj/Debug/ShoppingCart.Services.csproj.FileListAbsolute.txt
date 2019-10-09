@@ -1,0 +1,12 @@
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Services\bin\Debug\ShoppingCart.Services.dll
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Services\bin\Debug\ShoppingCart.Services.pdb
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Services\bin\Debug\ShoppingCart.Entities.dll
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Services\bin\Debug\ShoppingCart.Repositories.dll
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Services\bin\Debug\ShoppingCart.Entities.pdb
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Services\bin\Debug\ShoppingCart.Repositories.pdb
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Services\obj\Debug\ShoppingCart.Services.csprojAssemblyReference.cache
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Services\obj\Debug\ShoppingCart.Services.csproj.CopyComplete
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Services\obj\Debug\ShoppingCart.Services.dll
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Services\obj\Debug\ShoppingCart.Services.pdb
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Services\bin\Debug\Newtonsoft.Json.xml

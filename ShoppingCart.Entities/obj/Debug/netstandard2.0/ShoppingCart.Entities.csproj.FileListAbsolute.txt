@@ -1,0 +1,8 @@
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Entities\bin\Debug\netstandard2.0\ShoppingCart.Entities.deps.json
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Entities\bin\Debug\netstandard2.0\ShoppingCart.Entities.dll
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Entities\bin\Debug\netstandard2.0\ShoppingCart.Entities.pdb
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Entities\obj\Debug\netstandard2.0\ShoppingCart.Entities.csprojAssemblyReference.cache
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Entities\obj\Debug\netstandard2.0\ShoppingCart.Entities.AssemblyInfoInputs.cache
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Entities\obj\Debug\netstandard2.0\ShoppingCart.Entities.AssemblyInfo.cs
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Entities\obj\Debug\netstandard2.0\ShoppingCart.Entities.dll
+C:\Users\Chiragh\source\repos\ShoppingCart\ShoppingCart.Entities\obj\Debug\netstandard2.0\ShoppingCart.Entities.pdb

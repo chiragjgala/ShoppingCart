@@ -1,0 +1,5 @@
+C:\Users\Chiragh\source\repos\ShoppingCart\Controller.Tests\bin\Debug\Controller.Tests.dll
+C:\Users\Chiragh\source\repos\ShoppingCart\Controller.Tests\bin\Debug\Controller.Tests.pdb
+C:\Users\Chiragh\source\repos\ShoppingCart\Controller.Tests\obj\Debug\Controller.Tests.csprojAssemblyReference.cache
+C:\Users\Chiragh\source\repos\ShoppingCart\Controller.Tests\obj\Debug\Controller.Tests.dll
+C:\Users\Chiragh\source\repos\ShoppingCart\Controller.Tests\obj\Debug\Controller.Tests.pdb
